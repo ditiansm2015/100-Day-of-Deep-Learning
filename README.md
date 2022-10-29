@@ -5,3 +5,5 @@ Day 3 - Perceptron Basics
 Day 4 - Perceptron Trick & how to train a perceptron
 
 Day 5 - Perceptron Loss Function
+
+Day 10 - Customer Churn Prediction using ANN
